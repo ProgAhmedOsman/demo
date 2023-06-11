@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 demo
 demo 
 demo
-=======
 dfdsfdsf
 dsfdsfsdf
->>>>>>> 09289af5fb24658ab973512b6ced2de722579d66
+ 
